@@ -14,7 +14,7 @@ public class MainCompJ8 {
 //		public static void main_2(String[] args) {
 		// TODO Auto-generated method stub
 
-		//modif03 A
+		//modif03 A B
 		
 		List<Player> footballTeam = new ArrayList<>();
 		 Player player1 = new Player(59, "John", 24);
