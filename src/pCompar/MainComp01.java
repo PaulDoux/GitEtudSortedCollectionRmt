@@ -11,7 +11,7 @@ public class MainComp01 {
 //		public static void main_2(String[] args) {
 		// TODO Auto-generated method stub
 
-		
+		//Modif02 local
 		
 		List<Player> footballTeam = new ArrayList<>();
 		 Player player1 = new Player(59, "John", 24);
